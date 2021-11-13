@@ -1,2 +1,7 @@
+[![Someone Special](https://i.imgur.com/rGydVBk.jpeg)](https://osu.ppy.sh/b/2318435)
 # MiyaSynthesis41
-public source code
+
+## Authors
+* **Hori** - [Horizuki](https://github.com/Horizuki)
+
+## Ko
