@@ -4,4 +4,5 @@
 ## Authors
 * **Hori** - [Horizuki](https://github.com/Horizuki)
 
-## Ko
+## Changelog
+- Stopped working with Miya
