@@ -1,0 +1,13 @@
+{
+    "token": "your token",
+    "prefix": "m",
+    "ownerID": [
+        "350144899489857536"
+    ],
+    "YOUTUBE_API_KEY": "your token",
+    "STAY_TIME": 120,
+    "DEFAULT_VOLUME": 20,
+    "MAX_PLAYLIST_SIZE": 20,
+    "PRUNING": false,
+    "blacklist": []
+}
